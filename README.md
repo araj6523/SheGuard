@@ -7,7 +7,7 @@ SheGuard stands as the quintessential companion for women, ensuring their safety
 
 ## Screenshots 📱
 <div align="center">
-<img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/onboarding.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/signin.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/signup.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/home.jpg" width="15%" />
+<img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/onboarding.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/signin.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/signup.jpg" width="15%" /> 
 <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/profile.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/edit_profile.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/contacts.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/helpline.jpg" width="15%" />
 <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/safety_tips.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/settings.jpg" width="15%" /> <img src="https://github.com/Mahmud0808/SheGuard/blob/master/screenshots/about.jpg" width="15%" />
 </div>
